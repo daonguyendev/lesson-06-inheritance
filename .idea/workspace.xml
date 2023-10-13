@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b841acb6-b198-4b2b-b5cd-c96dc22795cb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson-06-inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/casting/CastingManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/casting/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/casting/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/IPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/PhoneManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaretype_actualtype/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaretype_actualtype/StudentManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/override/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/override/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/override/ShapeManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/polymorphism/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/polymorphism/AnimalManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/polymorphism/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/polymorphism/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/tostring/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/tostring/CircleManagement.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Wgmhr8kK29S2NvDZwAD0DywfKy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.CastingManagement">
+    <configuration name="AnimalManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.polymorphism.AnimalManagement" />
+      <module name="lesson-06-inheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codegym.polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CastingManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.casting.CastingManagement" />
+      <module name="lesson-06-inheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codegym.casting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CircleManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.tostring.CircleManagement" />
+      <module name="lesson-06-inheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codegym.tostring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShapeManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.override.ShapeManagement" />
+      <module name="lesson-06-inheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codegym.override.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.declaretype_actualtype.StudentManagement" />
+      <module name="lesson-06-inheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codegym.declaretype_actualtype.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CastingManagement" />
+        <item itemvalue="Application.AnimalManagement" />
+        <item itemvalue="Application.StudentManagement" />
+        <item itemvalue="Application.CircleManagement" />
+        <item itemvalue="Application.ShapeManagement" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b841acb6-b198-4b2b-b5cd-c96dc22795cb" name="Changes" comment="" />
+      <created>1697162722477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697162722477</updated>
+      <workItem from="1697162723866" duration="6061000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
